@@ -37,7 +37,7 @@ Having docker installed on your machine, run a command terminal, go to your proj
 >> docker-compose up
 ```
 
-The application runs by default using on port `44339`.
+The application runs by default on port `44339`.
 
 ## Author
 
